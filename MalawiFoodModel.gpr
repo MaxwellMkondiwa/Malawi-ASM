@@ -1,0 +1,14 @@
+[PROJECT]
+
+[RP:MALAWI AG SECTOR MODEL_BASELINEV2]
+1=
+
+[OPENWINDOW_1]
+FILE0=D:\OneDrive\Food Security\Data\Malawi Ag Sector Model_BaselineV2.gms
+FILE1=D:\OneDrive\Food Security\Data\Malawi Ag Sector Model_BaselineV2.lst
+FILE2=D:\OneDrive\Food Security\Data\Malawi Ag Sector Model_BaselineV2.gms
+MAXIM=0
+TOP=0
+LEFT=0
+HEIGHT=562
+WIDTH=1272
